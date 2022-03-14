@@ -28,7 +28,7 @@ export class AppService {
 
     const message = `${fromCoin} ${toCoin} ${toAddress} ${amount} ${hash}`;
     //FROM COIN Ethereum
-    let isVerified = await this.ethereumService.verifySigner(
+    const isVerified = await this.ethereumService.verifySigner(
       message,
       signature,
       fromAddress,
