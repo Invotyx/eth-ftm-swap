@@ -1,8 +1,8 @@
 #  ETH-TO-BNB-SWAP
-This is a one page website that can be used to swap from Ethereum Coins to Binance Coins and it's utilizing basic crypto swapping requirements to achieve that purpose.
+This is a one page website that can be used to swap from Ethereum Coins to Fantom Coins and it's utilizing basic crypto swapping requirements to achieve that purpose.
 
 ## TechStack
-This website has been developed using NodeJs that is a JavaScript runtime environment. This website can be used to swap from Ethereum to Binance coins.
+This website has been developed using NodeJs that is a JavaScript runtime environment. This website can be used to swap from Ethereum to Fantom coins.
 
 ### Backend
 * Node Js
@@ -15,12 +15,13 @@ This website has been developed using NodeJs that is a JavaScript runtime enviro
 ## Connect Wallet
 The connect wallet is used to connect this website with the meta mask account. 
 The connect wallet button shows up on opening the website for the time or whenever your reload the page and your metamask account is not connected with the website.<br/>
-![image](https://github.com/Invotyx/eth-ftm-swap/tree/main/src/assets/Connect-wallet.png)
+![image](https://github.com/Invotyx/eth-ftm-swap/blob/main/src/assets/Connect-wallet.png)
+
 
 ## Main Page
 The main page show up after this website is connected to metamask wallet.
-You can enter the binance testnet address and the amount the Ethereum coins you want to swap with binance coins and then click swap.<br/>
-![image](https://github.com/Invotyx/eth-ftm-swap/tree/main/src/assets/main-page.png)
+You can enter the Fantom testnet address and the amount the Ethereum coins you want to swap with Fantom coins and then click swap.<br/>
+![image](https://github.com/Invotyx/eth-ftm-swap/blob/main/src/assets/main-page.png)
 
 
 
@@ -29,16 +30,16 @@ After clicking swap button a confirm tab from metamask shows up and ask for conf
 You must have to click confirm button on the tab to complete the swapping. after clicking the confirm button you will receive a confirmation notification through metamask.
 <br/>
 <br/>
-![image](https://github.com/Invotyx/eth-ftm-swap/tree/main/src/assets/confirm-swap.png)
+![image](https://github.com/Invotyx/eth-ftm-swap/blob/main/src/assets/confirm-swap.png)
 
 ## Signature Request
 After confirming the the swap on confirmation tab, you will see a sign request tab that ask to sign the swap.<br/>
-![image](https://github.com/Invotyx/eth-ftm-swap/tree/main/src/assets/signature-Request.png)
+![image](https://github.com/Invotyx/eth-ftm-swap/blob/main/src/assets/signature-Request.png)
 
 
 ## Bsc TestNet Transaction
 Now you can test the transaction on bsc testNet using the transaction id that you can find on your MetaMask Account<br/>
-![image](https://github.com/Invotyx/eth-ftm-swap/tree/main/src/assets/Bsc-TestNet-Transaction.png)
+![image](https://github.com/Invotyx/eth-ftm-swap/blob/main/src/assets/Bsc-TestNet-Transaction.png)
 
 ## Installation
 
