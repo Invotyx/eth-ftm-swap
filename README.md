@@ -1,4 +1,4 @@
-#  ETH-TO-BNB-SWAP
+#  ETH-TO-FTM-SWAP
 This is a one page website that can be used to swap from Ethereum Coins to Fantom Coins and it's utilizing basic crypto swapping requirements to achieve that purpose.
 
 ## TechStack
